@@ -220,7 +220,7 @@ aws secretsmanager create-secret \
     "APP_KEY": "base64:GENERATED_KEY_HERE",
     "APP_ENV": "production",
     "APP_DEBUG": "false",
-    "APP_URL": "https://routegh.com"
+    "APP_URL": "https://routegh.biz"
   }' \
   --region us-east-1
 ```
