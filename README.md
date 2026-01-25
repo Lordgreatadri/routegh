@@ -515,7 +515,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Documentation**: See [QUICK_START.md](./QUICK_START.md) and [SMS_SETUP_GUIDE.md](./SMS_SETUP_GUIDE.md)
 - **Issues**: GitHub Issues
-- **Email**: support@routegh.com
+- **Email**: lordgreatadri@gmail.com
 
 ---
 
@@ -529,4 +529,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-<p align="center">Made with ❤️ by the Route Gh Team</p>
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/Lordgreatadri/">Lordgreatadri</a><br>
+  Project Developer | <a href="mailto:lordgreatadri@gmail.com">lordgreatadri@gmail.com</a>
+</p>
