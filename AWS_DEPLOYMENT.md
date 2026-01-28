@@ -254,10 +254,10 @@ aws secretsmanager create-secret \
     "MAIL_MAILER": "smtp",
     "MAIL_HOST": "smtp.gmail.com",
     "MAIL_PORT": "587",
-    "MAIL_USERNAME": "noreply@routegh.com",
+    "MAIL_USERNAME": "noreply@routegh.biz",
     "MAIL_PASSWORD": "your_app_password",
     "MAIL_ENCRYPTION": "tls",
-    "MAIL_FROM_ADDRESS": "noreply@routegh.com",
+    "MAIL_FROM_ADDRESS": "noreply@routegh.biz",
     "MAIL_FROM_NAME": "Route Gh"
   }' \
   --region us-east-1
