@@ -516,7 +516,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Documentation**: See [QUICK_START.md](./QUICK_START.md) and [SMS_SETUP_GUIDE.md](./SMS_SETUP_GUIDE.md)
 - **Issues**: GitHub Issues
 - **GitHub**: 🌐[Lordgreatadri](https://github.com/Lordgreatadri)
-- **Email**:  📧[lordgreatadri](lordgreatadri@gmail.com)
+- **Email**:  📧lordgreatadri@gmail.com
 
 ---
 
